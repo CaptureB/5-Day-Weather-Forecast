@@ -1,7 +1,5 @@
 header {
-    background-color:green
+    background-color:green;
+    width: auto;
 }
 
-div.title {
-    text-align: center;
-}
